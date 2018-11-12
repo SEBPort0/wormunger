@@ -7,7 +7,7 @@ You can run it with "python game.py", keep in mind that you need pygame and pyth
 
 ## Things to fix
 
- - [ ] Make the worm behave like a worm not a mutant from Chernobyl.
+ - [ ] Make the worm behave like a worm and not a mutant from Chernobyl.
 
 ## Special thanks to
 
