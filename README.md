@@ -5,7 +5,11 @@ to continue is gone.
 
 You can run it with "python game.py", keep in mind that you need pygame and python 3 to play this crap.
 
-# Special thanks to
+## Things to fix
+
+ - [ ] Make the worm behave like a worm not a mutant from Chernobyl.
+
+## Special thanks to
 
 Paul Vincent Craven for his amazing tutorials: http://programarcadegames.com/index.php
 
